@@ -1,0 +1,5 @@
+{
+  "name": "SmartSheet AI - Excel Intelligence Suite",
+  "description": "A powerful React-based Excel processing application that uses Gemini AI to analyze, transform, and generate insights from spreadsheet data. Support for .xlsx files with a modern, responsive UI.",
+  "requestFramePermissions": []
+}
